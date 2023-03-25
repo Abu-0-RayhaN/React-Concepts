@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css";
-import Counter from "./components/counter";
-ReactDOM.render(<Counter />, document.getElementById("root"));
+import Layout from "./components/Layout";
+import "./index.css";
+ReactDOM.render(<Layout />, document.getElementById("root"));

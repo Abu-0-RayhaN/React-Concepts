@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(85, 86, 119);
+}
+.imgStyle{
+    height: 500px;
+    width: 250px;
+}
+p,h3{
+    color: rgb(0, 0, 0);
+}
+.aligning{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
