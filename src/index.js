@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css";
-import Layout from "./components/Layout";
+import BookList from "./components/BookList";
 import "./index.css";
-ReactDOM.render(<Layout />, document.getElementById("root"));
+ReactDOM.render(<BookList />, document.getElementById("root"));
