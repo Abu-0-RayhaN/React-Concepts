@@ -59,10 +59,18 @@ export default function Header() {
               </li>
               <li className="nav-item">
                 <Link
-                  to="/login"
+                  to="/github"
                   className="nav-link text-gray-800 border-bottom border-2 border-transparent px-3 py-2.5 me-2"
                 >
-                  Log in
+                  Github
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  to="/user"
+                  className="nav-link text-gray-800 border-bottom border-2 border-transparent px-3 py-2.5 me-2"
+                >
+                  User
                 </Link>
               </li>
               <li className="nav-item">

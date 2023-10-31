@@ -1,0 +1,2 @@
+(Github.jsx)This method makes it faster to fetch data and show to the users. this githubInfoLoader function has been passed to index.js where when
+tries to go to github file before landing on that page we fetch the data to make things work faster
